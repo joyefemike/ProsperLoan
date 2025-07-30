@@ -1,5 +1,5 @@
 # ProsperLoan
-# (Dataset Exploration Title)
+# (Dataset Exploration)
 ## by (Joy Ikogho)
 
 
